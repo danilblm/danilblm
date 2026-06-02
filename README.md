@@ -6,13 +6,18 @@
   <img src="https://img.shields.io/badge/💼_Ouvert_à_l'alternance-D4A24C?style=flat-square" alt="Alternance" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/danil-bellahmer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:danilbellahmer5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
 ---
 
 - 🔭 Je conçois des applications web **production-ready**, du front-end à l'API.
 - 🧰 Stack de prédilection : **Node.js / NestJS**, **React + TypeScript**, **Spring Boot**.
 - 🎨 J'aime le code propre, typé et testé, et les interfaces soignées.
 - 🌱 J'explore l'architecture back-end, la qualité logicielle et le DevOps.
-- 📫 Me contacter : **danilbellahmer5@gmail.com**
+- 📫 Me contacter : **danilbellahmer5@gmail.com** · [LinkedIn](https://www.linkedin.com/in/danil-bellahmer/)
 
 ## 🛠️ Technologies
 
