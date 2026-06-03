@@ -58,10 +58,20 @@ Tableau de bord pour une plateforme de quiz culture & géographie. **React 19 + 
 
 `React` · `TypeScript` · `Vite` · `TailwindCSS` · `TanStack Query`
 
+### [V2V-Network-Simulator](https://github.com/danilblm/V2V-Network-Simulator) — Simulateur de réseau véhiculaire
+Simulateur interactif **C++ / Qt6 / QML** de communication Véhicule-à-Véhicule (V2V) sur données **OpenStreetMap** réelles : graphe d'interférences temps réel, portées de transmission, grille spatiale pour le partitionnement, jusqu'à plusieurs milliers de véhicules simulés.
+
+`C++` · `Qt6` · `QML` · `OpenStreetMap` · `VANET`
+
 ### [Projet_3D](https://github.com/danilblm/Projet_3D) — Réalité augmentée temps réel
 Pipeline de réalité augmentée en **Python** : détection de marqueurs ArUco via webcam, estimation de pose 6-DoF (OpenCV `solvePnP`) et rendu d'un modèle 3D en perspective avec OpenGL / moderngl.
 
 `Python` · `OpenCV` · `OpenGL` · `Computer Vision`
+
+### [portfolio](https://github.com/danilblm/portfolio) — Portfolio développeur
+Site portfolio personnel interactif au thème spatial, avec **3D temps réel** dans le navigateur : Next.js, React, TypeScript, Tailwind CSS, Three.js et animations GSAP.
+
+`Next.js` · `React` · `TypeScript` · `Three.js` · `GSAP`
 
 ## 📊 Statistiques GitHub
 
